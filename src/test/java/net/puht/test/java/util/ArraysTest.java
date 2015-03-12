@@ -15,7 +15,7 @@ public class ArraysTest extends TestCase {
     private org.slf4j.Logger logger = LoggerFactory.getLogger(ArraysTest.class);
 
     /**
-     * 排序，对所有参数按照字段名的 ASCII码从小到大排序(字典序)
+     * 排序，对所有参数按照字段名的 ASCII码从小到大排序(字典序)...
      * @throws Exception
      */
     @Test
