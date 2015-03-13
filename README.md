@@ -3,9 +3,11 @@
 
 测试java中常用的类库，包括：
 
-	Apache/Spring/Google旗下的常用类库，
+	大厂类库：Apache/Spring/Google旗下的常用类库;
 	
-	第三方的小类库Nutz/Dozer/ModelMapper/Lombok等.
+	第三方的小类库：Nutz/Dozer/ModelMapper/Lombok等;
+
+	DDD类库：DDDLib
 
 ##Java开发中最受欢迎的100个类库及项目--通过分析Github中30000个开源项目获取
 
@@ -25,4 +27,5 @@ TDD（测试驱动的开发）在Java和Ruby中占有很大数量（JS中很少�
 Mocking，一个帮助在测试和开发中模拟实际对象的方法，在Java的项目中占有10%，Ruby中占有7%。Javascript基本没有。
 
 完整的报告，请查看这里：[完整的报告](http://www.gbtags.com/gb/networks/uploads/6e64cfd2-214e-465e-84d7-920f43efaf9d/Book1.htm)
+
 
