@@ -1,4 +1,4 @@
-package net.puht.test.util.httpclient;
+package util;
 
 import junit.framework.TestCase;
 import net.puht.util.httpclient.HttpClientUtil;

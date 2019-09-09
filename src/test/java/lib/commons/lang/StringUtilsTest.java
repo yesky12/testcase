@@ -1,4 +1,4 @@
-package net.puht.test.org.apache.commons.lang;
+package lib.commons.lang;
 
 import junit.framework.TestCase;
 import org.junit.Test;

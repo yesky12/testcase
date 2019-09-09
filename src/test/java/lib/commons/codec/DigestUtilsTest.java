@@ -1,4 +1,4 @@
-package net.puht.test.org.apache.commons.codec;
+package lib.commons.codec;
 
 import junit.framework.TestCase;
 import org.apache.commons.codec.digest.DigestUtils;
